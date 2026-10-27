@@ -15,11 +15,14 @@ AI Engineer & Full Stack Developer from Pakistan. I train computer-vision models
 
  Projects 
 
-| [Step & Styl](https://github.com/areebaa7/step-and-styl) | Full-stack luxury footwear e-commerce platform with an admin portal · [Live](https://www.stepandstyl.com) |
-| [Algoligence](https://github.com/areebaa7/REPO-NAME) | AI SaaS marketing website · [Live](https://www.algoligence.com) |
-| [Weapon Detection](https://github.com/areebaa7/REPO-NAME) | YOLO11n (mAP50 0.872) running on Raspberry Pi + Hailo-8L |
-| [Deep Shield](https://github.com/areebaa7/REPO-NAME) | Hybrid CNN-ViT deepfake detector, ~94% accuracy, 25 test cases |
-| [Annyra Jewels](https://github.com/areebaa7/REPO-NAME) | Luxury jewelry catalog built with React + Vite |
+ [Step & Styl](https://github.com/areebaa7/step-and-styl) 
+ Full-stack luxury footwear e-commerce platform with an admin portal · [Live](https://www.stepandstyl.com) |
+ [Algoligence](https://github.com/areebaa7/algoligence-saas) 
+ AI SaaS marketing website · [Live](https://www.algoligence.com) |
+ [Weapon Detection](https://github.com/areebaa7/REPO-NAME)
+ YOLO11n (mAP50 0.872) running on Raspberry Pi + Hailo-8L 
+ [Deep Shield](https://github.com/areebaa7/REPO-NAME) | Hybrid CNN-ViT deepfake detector, ~94% accuracy, 25 test cases 
+ [Annyra Jewels](https://github.com/areebaa7/REPO-NAME) | Luxury jewelry catalog built with React + Vite 
 
 ## 💼 Currently
 
